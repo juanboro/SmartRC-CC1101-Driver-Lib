@@ -12,8 +12,5 @@
     "url": "https://github.com/LSatan/SmartRC-CC1101-Driver-Lib"
   },
   "version": "2.5.7",
-  "frameworks": [
-        "arduino"
-  ],
   "platforms": "*"
 }
